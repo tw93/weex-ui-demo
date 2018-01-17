@@ -20,7 +20,7 @@ Start a Web server at 8080 port
 
 > npm run serve
 
-
+> weex src/index.vue
 
 Add a weex platform of Android and run commands for testing
 
@@ -35,6 +35,6 @@ Add a weex platform of iOS and run commands for testing
 > weex run ios
 
 
-| Web |iOS|
-|:--|:--|
-|<img src="https://img.alicdn.com/tfs/TB1sr5Dnf6H8KJjy0FjXXaXepXa-572-1018.gif" width=240/>|<img src="https://img.alicdn.com/tfs/TB1A.ShnlTH8KJjy0FiXXcRsXXa-458-846.gif" width=240/>|
+| Web |Preview|iOS|
+|:--|:--|:--|
+|<img src="https://img.alicdn.com/tfs/TB1sr5Dnf6H8KJjy0FjXXaXepXa-572-1018.gif" width=240/>|<img src="https://img.alicdn.com/tfs/TB1faTMncLJ8KJjy0FnXXcFDpXa-1338-1246.png" width=240/>|<img src="https://img.alicdn.com/tfs/TB1A.ShnlTH8KJjy0FiXXcRsXXa-458-846.gif" width=240/>|
