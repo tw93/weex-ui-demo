@@ -14,4 +14,4 @@ mods/.sass-cache/
 !.gitignore
 !.editorconfig
 temp
-platforms
+platforms/*/
