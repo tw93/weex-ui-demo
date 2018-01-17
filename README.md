@@ -36,5 +36,5 @@ Add a weex platform of iOS and run commands for testing
 
 
 | Web |iOS|
-|:--|:--|:--|
+|:--|:--|
 |<img src="https://img.alicdn.com/tfs/TB1sr5Dnf6H8KJjy0FjXXaXepXa-572-1018.gif" width=240/>|<img src="https://img.alicdn.com/tfs/TB1A.ShnlTH8KJjy0FiXXcRsXXa-458-846.gif" width=240/>|
